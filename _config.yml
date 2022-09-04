@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepak Kumar"
-  avatar           : "profile.png"
+  avatar           : "deepak.png"
   bio              : ""
   location         : "Kolkata, India"
   employer         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://youtube.com/channel/UCpzVTz5lPMAsxBHn9wyl9hw"
   wikipedia        :
 
 
