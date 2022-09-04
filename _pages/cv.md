@@ -84,6 +84,7 @@ Achievements
 * WBJEE 2019
   * Secured 4k AIR among 180K Candidates
 
+
 Social Links
 ======
 * <p>GitHub: <a href = "https://github.com/Deepak17460">deepaksingh</a> </p>
@@ -93,6 +94,7 @@ Social Links
 * <p>LeetCode: <a href = "https://leetcode.com/dadakumarsingh803206/">deepaksingh</a> </p>
 
 * <p>Geeks for Geeks: <a href = "https://auth.geeksforgeeks.org/user/dadakumarsingh803206">Deepak Singh</a> </p>
+
 
 <!-- Publications
 ======
